@@ -1,25 +1,17 @@
 ---
 layout: page
-title: "About"
-description: "嘿，你总算找到我啦"
-header-img: "img/plane.jpg"
+title: About
+permalink: /about/
 ---
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
-</center>
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Ehhhh...I know it's not a good question.
+Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-——Azeril
-
-
-> Live long and prosper
-
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
-</center>
+[centrarium]: https://github.com/bencentra/centrarium
+[bencentra]: http://bencentra.com
+[jekyll]: https://github.com/jekyll/jekyll
