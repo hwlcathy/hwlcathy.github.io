@@ -2,7 +2,7 @@
 layout: post
 title: 新年要求
 categories: [blog ]
-tags: [minds, ]
+tags: [plan, ]
 description: 新年需要完成的
 ---
 

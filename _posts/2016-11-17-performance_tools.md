@@ -2,7 +2,7 @@
 layout: post
 title: http的get接口和post接口性能压测
 categories: [test ]
-tags: [performance]
+tags: [test]
 description: http服务的性能测试
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 用tornado搭建http服务
 categories: [blog ]
-tags: [tornado, Mock, ]
+tags: [Test, Mock, ]
 description: 用tornado搭建http服务
 ---
 # tornado搭建http服务
